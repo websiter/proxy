@@ -2,9 +2,11 @@
   "version": 1,
   "rules": [
     {
+      "domain": [
+        "www.locvps.com"
+      ],
       "domain_suffix": [
-        ".openwebui.com",
-        ".locvps.com"
+        ".openwebui.com"
       ]
     }
   ]
