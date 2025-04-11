@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "www.locvps.com"
+        "www.locvps.com",
+        "api.oaipro.com"
       ],
       "domain_suffix": [
         ".openwebui.com",
